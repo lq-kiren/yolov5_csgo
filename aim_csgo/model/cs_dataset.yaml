@@ -1,0 +1,9 @@
+train: E:/python/pycharm/yolov5_csgo/data/cs_dataset/images/train
+val: E:/python/pycharm/yolov5_csgo/data/cs_dataset/images/val
+
+# Classes
+names:
+  0: ct
+  1: ct_head
+  2: t
+  3: t_head
